@@ -7,7 +7,7 @@ This is just a little bit of code I thought I could work with to make operations
 
 ### initiator.py
 
-This file writes a command (taken from stdin) and writes it to input.txt. It then waits for `runner.py` to return the output by checking `output.txt`, which it then displays.
+This file writes a command (taken from stdin) and writes it to `input.txt`. It then waits for `runner.py` to return the output by checking `output.txt`, which it then displays.
 
 ### runner.py
 
